@@ -1,0 +1,34 @@
+Đăng nhập
+- Quản lý nhân viên:
+•	Hiển thị danh sách
+•	Thêm mới
+•	Sửa
+•	Xóa
+•	Sắp xếp
+•	Tìm kiếm
+•	Phân trang
+- Quản lý hợp đồng
+•	 Hiển thị danh sách
+•	Thêm mới
+•	Sửa
+•	Xóa
+•	Sắp xếp
+•	Tìm kiếm
+•	Phân trang
+    - Quản lý chấm công
+•	Hiển thị danh sách
+•	Thêm mới
+•	Sửa
+•	Xóa
+•	Sắp xếp
+•	Tìm kiếm
+•	Phân trang
+    - Quản lý tăng ca
+•	Hiển thị danh sách
+•	Thêm mới
+•	Sửa
+•	Xóa
+•	Sắp xếp
+•	Tìm kiếm
+•	Phân trang
+---> Link video demo : https://drive.google.com/file/d/1wBNYBzpwccH0uzmhUnqsOA6RPuC65T2W/view?usp=sharing
